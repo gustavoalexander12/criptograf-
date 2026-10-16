@@ -1,0 +1,6 @@
+Operacao: Criptografia | Resultado: fdvd
+Operacao: Descriptografia | Resultado: casa
+Palavra codificada: gexg | SHIFT: 3 | Tipo: 3 | Letras: 4
+Palavra recuperada: casa | SHIFT: 3 | Tipo: 3 | Letras: 4
+Palavra codificada: KZYAIEY | SHIFT: 3 | Tipo: 1 | Letras: 7
+Palavra recuperada: GUSTAVO | SHIFT: 3 | Tipo: 1 | Letras: 7
